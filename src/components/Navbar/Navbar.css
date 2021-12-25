@@ -1,0 +1,18 @@
+.navbar-area-section{
+    color: black;
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+#navbarDropdown {
+    color: black;
+}
+*{
+    font-weight: bold;
+    font-size: 20px;
+}
+.menuImageArea{
+    height: 20px;
+    width: 20px;
+}

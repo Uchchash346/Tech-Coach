@@ -1,0 +1,23 @@
+.support-image-area{
+    height: 80px;
+    width: 80px;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.support-area{
+    border: none;
+}
+
+.support-category-section-area{
+    border: none;
+}
+
+/* box-shadow: 10px 10px 5px grey; */
+
+/* .support-all-categories-area{
+    box-shadow: 3px 3px 3px 3px  grey;
+    border: none;
+} */
+
