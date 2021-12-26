@@ -3,7 +3,7 @@ import './SupportArea.css'
 
 const SupportArea = ({ supportCategories }) => {
 
-    return (
+    return ( 
         <div className="container">
             <h2 className="text-center pt-3">Why An Scholercity Out Of The Ordinary 😎</h2>
             <div className="container row row-cols-1 row-cols-md-4 " >
