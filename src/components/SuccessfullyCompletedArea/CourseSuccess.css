@@ -1,0 +1,19 @@
+.course-success-image-area{
+    width: 80px;
+    height: 80px;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.course-success-subtitle-area {
+    font-weight: normal;
+}
+.course-success-counter-area{
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.course-success-title-area {
+    font-size: 20px;
+    font-weight: normal;
+}

@@ -36,7 +36,7 @@ const CoursesArea = ({ courseCategories }) => {
                                         </div>
                                         <div class="card-footer d-flex flex-row course-price-area">
                                             <div className="col"><h5 className="text-start"><a href="#" className="">${courseCategory.price}</a></h5></div>
-                                            <div className="col"><h5><a className="text-end details-area">Know Details<FontAwesomeIcon className="fa-sm" icon={faArrowRight} /></a></h5></div>
+                                            <div className="col"><h5><a className="text-end details-area">Know Details <FontAwesomeIcon className="fa-sm" icon={faArrowRight} /></a></h5></div>
                                         </div>
                                     </div>
                                 </div>

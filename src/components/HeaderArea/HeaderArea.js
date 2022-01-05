@@ -10,13 +10,13 @@ const HeaderArea = () => {
                     <div className="col-6 header-left-area">
                         <h1>Welcome to Teach Coach</h1>
                         <h2>World's best learning platform 📚</h2>
-                <div>
-                    <button type="button" className="btn btn-primary me-2 header-button-area">Video</button>
-                    <button type="button" className="btn btn-primary me-2 header-button-area">Get Now</button>
-                </div>
+                        <div>
+                            <button type="button" className="btn btn-primary me-2 header-button-area">Video</button>
+                            <button type="button" className="btn btn-primary me-2 header-button-area">Get Now</button>
+                        </div>
                     </div>
                     <div className="col-6 top-0 end-0">
-                        <img className="header-image-right" src={headerImage} alt="" />
+                        <img className="img-fluid header-image-right" src={headerImage} alt="" />
                     </div>
                 </div>
             </div>
